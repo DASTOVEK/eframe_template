@@ -1,0 +1,13 @@
+name: eframe_template
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/35bd0aa3-4fec-448f-82e4-9388a2275bdf
+description: The easy way to make a Rust app with a GUI
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
